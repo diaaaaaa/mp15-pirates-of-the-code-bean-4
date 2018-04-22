@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Mp15PiratesOfTheCodeBean4ApplicationTests {
+public class Mp15PiratesControllerOfTheCodeBean4ApplicationTests {
 
 	@Test
 	public void contextLoads() {
